@@ -1,4 +1,4 @@
-# hello-world
+# Selenium-Practice
 First repository
 
-Hi i love SQL.SO i am here to practice some sql queries.
+Hi All, Here I will be posting code snippets of selenium, in which I will be working with different problems that you might face in your projects.
